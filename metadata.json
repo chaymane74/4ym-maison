@@ -1,0 +1,6 @@
+{
+  "name": "4YM | Maison",
+  "description": "Moroccan Luxury Fashion and Accessories Boutique. Wear Your Identity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
